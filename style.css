@@ -1,0 +1,252 @@
+body {
+    background-color: rgb(38, 38, 38);
+    color: rgb(255, 255, 255);
+    margin: 20px;
+}
+
+.Z2 {
+    border: solid white 1px;
+    border-radius: 7px;
+    padding: 10px;
+    width: 300px;
+}
+
+.Z3 {
+    border: solid white 1px;
+    width: 250px;
+    border-radius: 7px;
+    padding: 10px;
+}
+
+.Z4 {
+    border: solid green 1px;
+    border-radius: 7px;
+    background-color: rgb(13, 56, 13);
+    padding: 10px;
+    float: inline-end;
+    height: 60px;
+    margin: 7px;
+}
+
+.Z4 img {
+    float: left;
+    margin: 0px 10px 0px 0px;
+}
+
+a {
+    outline: none;
+    text-decoration: none;
+}
+
+.MK2 {
+    border: solid white 1px;
+    border-radius: 7px;
+    padding: 10px;
+    width: 300px;
+}
+
+.MK3 {
+    border: solid white 1px;
+    width: 250px;
+    border-radius: 7px;
+    padding: 10px;
+}
+
+.ZI2 {
+    border: solid white 1px;
+    border-radius: 7px;
+    padding: 10px;
+    width: 300px;
+}
+
+.HP2 {
+    border: solid white 1px;
+    border-radius: 7px;
+    padding: 10px;
+    width: 300px;
+}
+
+.ZM2 {
+    border: solid white 1px;
+    border-radius: 7px;
+    padding: 10px;
+    width: 300px;
+}
+
+.TM2 {
+    border: solid white 1px;
+    border-radius: 7px;
+    padding: 10px;
+    width: 300px;
+}
+
+.TM3 {
+    border: solid white 1px;
+    width: 250px;
+    border-radius: 7px;
+    padding: 10px;
+}
+
+.TM4 {
+    border: solid green 1px;
+    border-radius: 7px;
+    background-color: rgb(13, 56, 13);
+    padding: 10px;
+    float: inline-end;
+    height: 60px;
+    margin: 7px;
+}
+
+.TM4 img {
+    float: left;
+    margin: 0px 10px 0px 0px;
+}
+
+.S2 {
+    border: solid white 1px;
+    border-radius: 7px;
+    padding: 10px;
+    width: 300px;
+}
+
+.MV2 {
+    border: solid white 1px;
+    border-radius: 7px;
+    padding: 10px;
+    width: 300px;
+}
+
+.KP2 {
+    border: solid white 1px;
+    border-radius: 7px;
+    padding: 10px;
+    width: 300px;
+}
+
+.ZG2 {
+    border: solid white 1px;
+    border-radius: 7px;
+    padding: 10px;
+    width: 300px;
+}
+
+.M2 {
+    border: solid white 1px;
+    border-radius: 7px;
+    padding: 10px;
+    width: 300px;
+}
+
+.IA2 {
+    border: solid white 1px;
+    border-radius: 7px;
+    padding: 10px;
+    width: 300px;
+}
+
+.IA3 {
+    border: solid white 1px;
+    width: 250px;
+    border-radius: 7px;
+    padding: 10px;
+    height: 350px;
+}
+
+.IA3 img {
+    margin:7px;
+}
+
+.A2 {
+    border: solid white 1px;
+    border-radius: 7px;
+    padding: 10px;
+    width: 300px;
+}
+
+.A3 {
+    border: solid white 1px;
+    width: 250px;
+    border-radius: 7px;
+    padding: 10px;
+}
+
+.IGN2 {
+    border: solid white 1px;
+    border-radius: 7px;
+    padding: 10px;
+    width: 300px;
+}
+
+.IGN3 {
+    border: solid white 1px;
+    width: 250px;
+    border-radius: 7px;
+    padding: 10px;
+}
+
+.IGN3 img {
+    margin:7px;
+}
+
+.GNM2 {
+    border: solid white 1px;
+    border-radius: 7px;
+    padding: 10px;
+    width: 300px;
+}
+
+.GNM3 {
+    border: solid white 1px;
+    width: 250px;
+    border-radius: 7px;
+    padding: 10px;
+}
+
+.GS2 {
+    border: solid white 1px;
+    border-radius: 7px;
+    padding: 10px;
+    width: 300px;
+}
+
+.GS3 {
+    border: solid white 1px;
+    width: 250px;
+    border-radius: 7px;
+    padding: 10px;
+}
+
+.Myr2 {
+    border: solid white 1px;
+    border-radius: 7px;
+    padding: 10px;
+    width: 300px;
+}
+
+.TK2 {
+    border: solid white 1px;
+    border-radius: 7px;
+    padding: 10px;
+    width: 300px;
+}
+
+.TK3 {
+    border: solid white 1px;
+    width: 250px;
+    border-radius: 7px;
+    padding: 10px;
+}
+
+.KM2 {
+    border: solid white 1px;
+    border-radius: 7px;
+    padding: 10px;
+    width: 300px;
+}
+
+.KM3 {
+    border: solid white 1px;
+    width: 250px;
+    border-radius: 7px;
+    padding: 10px;
+}
